@@ -1,0 +1,21 @@
+.wrap{
+    width: 1000px;
+    margin: auto;
+    clear: both;
+}
+#wave{
+    Color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    text-align: center;
+}
+img{
+    width: auto;
+    height: 100px;
+
+}
+ul{
+    list-style: circle;
+}
+a{
+    text-decoration: none;
+}
